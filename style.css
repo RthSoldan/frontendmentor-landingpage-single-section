@@ -26,7 +26,7 @@
     display: flex;
     
     justify-content: space-between;
-    padding: 8vh 5vw 4vh 5vw;
+    padding: 10vh 5vw 4vh 5vw;
 }
 
 
@@ -36,7 +36,7 @@
 }
 
 .main-content_illustration img{
-    width: 90vh;
+    width: 85vh;
 }
 
 .main-content_information {
@@ -45,7 +45,7 @@
 }
 
 h1 {
-   font-size: 2.5vw;
+   font-size: 2.8vw;
     width: 80%;
     font-weight: 600;   
     font-family: Poppins;
@@ -59,8 +59,7 @@ p {
     font-family: Open Sans;
     
     
-   
-}
+   }
 
 a {
     background-color: white;
@@ -68,7 +67,7 @@ a {
     padding: 2vh 9vh; 
     border-radius: 50px;
     text-decoration: none;
-    filter: drop-shadow(5px 3px 8px #0000008c);
+    filter: drop-shadow(5px 3px 4px #0000008c);
     font-family: Open Sans;
     
     
