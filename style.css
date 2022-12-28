@@ -16,7 +16,7 @@
 }
 
 .is-logo img {
-    width: 13vw;
+    width: 15vw;
     
     
 }
@@ -40,12 +40,12 @@
 }
 
 .main-content_information {
-    margin-top: 7vh;
+    margin-top: 10vh;
     
 }
 
 h1 {
-   font-size: 2.8vw;
+   font-size: 2.3vw;
     width: 80%;
     font-weight: 600;   
     font-family: Poppins;
